@@ -57,3 +57,12 @@ The analysis uses a single dataset:
 1. **Weather Monitoring**: Use temperature trends to anticipate rainfall and plan activities accordingly.
 2. **Model Improvement**: Incorporate additional features like humidity, wind speed, and pressure to improve rainfall prediction accuracy.
 3. **Seasonal Planning**: Utilize insights from monthly trends to prepare for periods of high rainfall.
+
+---
+
+## Author
+**Name**: Aman Choudhary (Intern ID: SMI73722)  
+**Email**: [amanchoudhary11189.ac@gmail.com](mailto:amanchoudhary11189.ac@gmail.com)  
+**LinkedIn**: [Aman Choudhary](https://www.linkedin.com/in/aman-choudhary-61a9361a0/)  
+**Portfolio**: [Aman Choudhary's Portfolio](https://amanchoudhary1997.github.io/amanchoudhary.github.io/)
+
